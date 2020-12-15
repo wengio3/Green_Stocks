@@ -1,4 +1,4 @@
-# green_stocks
+# Green_Stocks
 
 ## Overview of Project
  This project's goal was to use VBA to build a macro to analyze alternative energy in an error-free and automated way.  
